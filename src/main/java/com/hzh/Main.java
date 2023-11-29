@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("123");
         System.out.println("124");
+        System.out.println("hot-fix test");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
